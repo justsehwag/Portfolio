@@ -79,7 +79,7 @@ const Home = () => {
                         </Box>
                         </div>
                         <Text>I am a creative Web Developer with a passion for crafting dynamic web application</Text>
-                        <HStack className='hireMe' onClick={() => { window.open("https://drive.google.com/file/d/1BEKeAX06YW5pGFnHQlWRDQebeeP6fnbs/view?usp=drive_link", '_blank') }}>
+                        <HStack className='hireMe' onClick={() => { window.open("https://drive.google.com/file/d/1GqbYfyHenZ3ugOMGwIA-BUHJ6m-shYfo/view?usp=drive_link", '_blank') }}>
                             <a href={Resume} download="Seshathri-Y-Resume">
                                 <Button>Resume <GoCloudDownload /></Button>
                             </a>
