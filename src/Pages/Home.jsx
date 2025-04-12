@@ -78,7 +78,7 @@ const Home = () => {
                             <Heading fontSize="3.3em" className='text' data-text="Seshathri Y     "><span className='themeText'>Seshathri Y     </span></Heading>
                         </Box>
                         </div>
-                        <Text>I am a creative Web Developer with a passion for crafting dynamic web application</Text>
+                        <Text>hillin', learning, and turning ideas into something real. Not in a rush, just vibing and growing.</Text>
                         <HStack className='hireMe' onClick={() => { window.open("https://drive.google.com/file/d/1DMbMkjAzq-abvfCY4GufRQq0q0hNcbQS/view?usp=drive_link", '_blank') }}>
                             <a href={Resume} download="Seshathri-Y-Resume">
                                 <Button>Resume <GoCloudDownload /></Button>
