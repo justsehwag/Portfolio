@@ -112,8 +112,7 @@ const Home = () => {
 
                         <Box>
                         <div id='repeat'>
-                            <Text>I am an enthusiastic web developer with a strong passion for creating dynamic and responsive web applications. I specialize in both front-end and back-end development, focusing on delivering functional and user-friendly digital solutions.</Text>
-                            </div>
+<Text>Web developer by heart, cloud explorer by choice. 🚀 I craft websites that wow and build cloud solutions that scale. Always experimenting, always growing — because the future is built online, and I'm here for it. Ready to turn ideas into reality and dreams into deployable projects     </Text>                       </div>
                         </Box>
                     </Flex>
                 </Flex>
