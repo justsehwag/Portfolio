@@ -75,7 +75,7 @@ const Home = () => {
                         <Heading>Hey! <span className='themeText'>I'm</span></Heading>
                         <div id="sp">
                         <Box className='content'>
-                            <Heading fontSize="3.3em" className='text' data-text="Thomas Pradeep     "><span className='themeText'>Thomas Pradeep     </span></Heading>
+                            <Heading fontSize="3.3em" className='text' data-text="Divya KU :)    "><span className='themeText'>Divya KU :)    </span></Heading>
                         </Box>
                         </div>
                         <Text>Chillin', learning, and turning ideas into something real. Not in a rush, just vibing and growing.</Text>
