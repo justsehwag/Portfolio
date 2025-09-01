@@ -256,7 +256,8 @@ const Home = () => {
             {/* footer */}
             <Flex id='footer'>
                 <Text>© Portfolio by Seshathri-Y. | All rights reserved.</Text>
-                
+                <a href="https://quantumbid-client.vercel.app/" target="_blank" rel="noopener noreferrer">Quantium Bit</a>
+
             </Flex>
         </Box >
     )
