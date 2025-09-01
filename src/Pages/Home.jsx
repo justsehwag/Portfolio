@@ -75,10 +75,10 @@ const Home = () => {
                         <Heading>Hey! <span className='themeText'>I'm</span></Heading>
                         <div id="sp">
                         <Box className='content'>
-                            <Heading fontSize="3.3em" className='text' data-text="Divya KU :)    "><span className='themeText'>Divya KU :)    </span></Heading>
+                            <Heading fontSize="3.3em" className='text' data-text="Seshathri Y!    "><span className='themeText'>Seshathri Y!    </span></Heading>
                         </Box>
                         </div>
-                        <Text> ⚠️Warning: I might scare you… or I might just bring you soup when you’re sad.</Text>
+                        <Text> I wrangle AWS so you don’t have to. EC2s, RDS, VPCs — the whole alphabet soup. I set up stuff that doesn’t crash (much), add backups you’ll hopefully never need, and make architectures that look way fancier in diagrams than in real life. Clients give me chaos, I give them something that works. Simple.</Text>
                         <HStack className='hireMe' onClick={() => { window.open("https://drive.google.com/file/d/1DMbMkjAzq-abvfCY4GufRQq0q0hNcbQS/view?usp=drive_link", '_blank') }}>
                             <a href={Resume} download="Seshathri-Y-Resume">
                                 <Button>Resume <GoCloudDownload /></Button>
